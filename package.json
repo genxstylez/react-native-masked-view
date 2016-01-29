@@ -6,11 +6,11 @@
   "author": {
     "name": "Gil Birman",
 	"email": "birmangil@gmail.com",
-    "url": "https://github.com/gilbox/react-native-masked-view"
+    "url": "https://github.com/genxstylez/react-native-masked-view"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:gilbox/react-native-masked-view.git"
+    "url": "git@github.com:genxstylez/react-native-masked-view.git"
   },
   "keywords": [
     "react",
